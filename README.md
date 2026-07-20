@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -102,6 +103,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
