@@ -112,10 +112,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -171,4 +173,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
