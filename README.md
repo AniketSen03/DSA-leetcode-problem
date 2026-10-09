@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
@@ -62,6 +63,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AniketSen03/DSA-leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
